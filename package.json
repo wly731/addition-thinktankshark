@@ -1,0 +1,24 @@
+{
+  "name": "addition-thinktankshark",
+  "version": "0.0.1",
+  "description": "alpha version",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkTankShark/addition-thinktankshark.git"
+  },
+  "keywords": [
+    "addition",
+    "sam",
+    "assadi"
+  ],
+  "author": "Sepand Assadi <samsassadi@gmail.com> (@thinktankshark)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThinkTankShark/addition-thinktankshark/issues"
+  },
+  "homepage": "https://github.com/ThinkTankShark/addition-thinktankshark#readme"
+}
