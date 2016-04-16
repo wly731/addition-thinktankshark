@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ThinkTankShark/addition-thinktankshark/issues"
   },
-  "homepage": "https://github.com/ThinkTankShark/addition-thinktankshark#readme"
+  "homepage": "https://github.com/ThinkTankShark/addition-thinktankshark#readme",
+  "devDependencies": {
+    "tap": "^5.7.1"
+  }
 }
